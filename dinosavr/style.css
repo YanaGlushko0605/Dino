@@ -1,0 +1,38 @@
+body {
+	color: green;
+	font-size: 24px;
+}
+td {
+	height: 500px;
+	width: 600px;
+	text-align: center;
+    padding: 5px;
+    border: 1px solid red;
+}
+table {
+	border: 1px solid red;
+	background: #DCDCDC;
+} 
+tr {
+	border: 1px solid red;
+}
+th {
+	border: 1px solid red;
+	background: #BCC6CC;
+}
+.main {
+	height: 50px;
+	background: #ADD8E6;
+}
+.too {
+	vertical-align: top;
+}
+img {
+	height: 100px;
+	width: 100px;
+	position: top;
+	border: 1px solid black;
+}
+strong {
+	font-size: 30px;
+}
